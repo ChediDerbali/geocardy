@@ -6,6 +6,11 @@
 - it's up to you to chose the colors as long as they follow Material design's Guidelines
 - a light/dark theme modes are ❇️
 
+- links:
+  - [Material 3](https://m3.material.io/)
+  - [Material 3 Design Kit](https://www.figma.com/community/file/1035203688168086460)
+  - [Accessibility Guide](https://m3.material.io/foundations/designing/overview)
+
 ## Pages
 
 ### login page: ★☆☆☆☆
